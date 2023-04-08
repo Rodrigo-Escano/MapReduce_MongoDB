@@ -12,4 +12,4 @@ O pacote “Mongolite” da linguagem R proporciona conexões diretas com um ban
  	
 “Amostra_Tipos de Propriedade”
 
-O script permite a automatização do tratamento dos dados: Toda vez que os dados no servidor forem atualizados, serão estruturados e os bancos resultantes serão atualizados ao se rodar o script novamente.
+O script permite a automatização do tratamento dos dados: toda vez que os dados no servidor forem atualizados, serão estruturados e os bancos resultantes serão atualizados ao se rodar o script novamente.
