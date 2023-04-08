@@ -1,5 +1,4 @@
-# Análise de Banco de Dados Não Relacional
-# MongoDB e Airbnb
+# Análise de Banco de Dados Não Relacional - MongoDB e Airbnb
 
 Este projeto analisou dados do Airbnb, salvos em um banco de dados não relacional e semi estruturado, em formato de texto originalmente, em um servidor de MongoDB. Todo processo foi realizado em linguagem R, e o script se encontra disponível com o nome “Análise_BancoNãoRelacional_MongoDB_Airbnb”.
 
